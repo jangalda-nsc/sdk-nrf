@@ -67,12 +67,6 @@
   comment: "https://nordicsemi.atlassian.net/browse/NCSDK-24923"
 
 - scenarios:
-    - sample.display.lvgl.gui
-  platforms:
-    - native_posix
-  comment: "https://nordicsemi.atlassian.net/browse/NCSDK-24924"
-
-- scenarios:
     - sample.drivers.crypto.mbedtls
   platforms:
     - nrf9160dk_nrf9160_ns
