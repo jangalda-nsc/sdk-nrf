@@ -5,7 +5,7 @@ on:
     types: [opened, synchronize, reopened]
     branches:
       - main
-      - 'v*-branch'
+      - 'test-pip-reqs-branch'
     paths:
       - 'scripts/requirements*.txt'
 
