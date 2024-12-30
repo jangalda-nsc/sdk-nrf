@@ -16,7 +16,7 @@ name: Enforce rebasing Pull Requests if Toolchain was modified on target branch
 on:
   push:
     branches:
-      - '**'  # Triggers on pushes to any branch
+      - '**'  # Triggers on pushes to any branchasdasd
 jobs:
   check-prs:
     if: ${{ github.repository_owner == 'nrfconnect' && !github.event.created }}  # Skip for new branches or forks
