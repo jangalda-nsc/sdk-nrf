@@ -129,7 +129,7 @@ pathspec==0.12.1 ; python_version >= "3.12" and python_version < "4.0"
 patool==3.0.3 ; python_version >= "3.12" and python_version < "4.0"
 pdfminer-six==20251107 ; python_version >= "3.12" and python_version < "4.0" and (platform_machine == "x86_64" or platform_machine == "AMD64")
 pefile==2024.8.26 ; python_version >= "3.12" and python_version < "4.0" and (platform_machine == "x86_64" or platform_machine == "AMD64")
-pillow==11.3.0 ; python_version >= "3.12" and python_version < "4.0"
+pillow==12.1.1 ; python_version >= "3.12" and python_version < "4.0"
 pip-requirements-parser==32.0.1 ; python_version >= "3.12" and python_version < "4.0" and (platform_machine == "x86_64" or platform_machine == "AMD64")
 pkg-about==2.0.1 ; python_version >= "3.12" and python_version < "4.0"
 pkginfo2==30.0.0 ; python_version >= "3.12" and python_version < "4.0" and (platform_machine == "x86_64" or platform_machine == "AMD64")
